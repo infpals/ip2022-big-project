@@ -4,6 +4,7 @@ This repository contains materials for the Big Project Workshop which lead to cr
 This project is given by InfPals Leaders in Weeks 6 - Week 10 semester 2 school year 2021/22.
 
 Github repo with [initial version of the project](https://github.com/infpals/ip2022-big-project-template)
+
 Github repo with [final version of the project](https://github.com/infpals/ip2022-big-project-template-updated)
 
 Matrials consists of presentations given in a span of 5 weeks:
