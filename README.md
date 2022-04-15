@@ -1,4 +1,4 @@
-# Materials for Interview Prep - Coding Workshop by InfPals
+# Materials for Big Project Workshops by InfPals
 
 This repository contains materials for the Big Project Workshop which lead to creation of persolanized Kanban Board.
 This project is given by InfPals Leaders in Weeks 6 - Week 10 semester 2 school year 2021/22.
